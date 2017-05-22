@@ -1,5 +1,5 @@
 ---
-title: "Docker DOOM!!"
+title: "Docker DOOM"
 header:
   image: /assets/images/doomposthead.png
 excerpt: "Kill your running Docker container using Id's DOOM!"
@@ -19,7 +19,7 @@ proper tool, a rocket launcher (or BFG, or shotgun, or whatever)!
 
 Download and extract this binary on the Linux machine running docker:
 
-<div markdown="0"><a href="/bins/dockerdoomd.tar.gz" class="btn btn-info">dockerdoomd</a></div>
+<div markdown="0"><a href="/assets/bins/dockerdoomd.tar.gz" class="btn btn-info">dockerdoomd</a></div>
 
 Start up a few docker containers e.g.,:
 
